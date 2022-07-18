@@ -1,0 +1,8 @@
+#Requisito: Tener instalado matplotlib.pyplot, pandas(dependencias de python) y python obviamente.
+
+#1 Ejecutar el script llamado TSP_GRASP
+#2 Elegir el nombre de la instancia sin la extension(se encuentran en la carpeta instancias)
+#3 Elegir el numero de iteraciones deseadas
+
+#PD: Los graficos se guardan en la carpeta graficos de la siguiente forma: nombre_instancia-cantidad iteraciones-datetime timestamp.jpg
+Las soluciones se guardan en la carpeta soluciones(camino y mejor costo)
